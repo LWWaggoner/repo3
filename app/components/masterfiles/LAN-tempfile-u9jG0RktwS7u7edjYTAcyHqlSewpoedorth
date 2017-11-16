@@ -1,0 +1,697 @@
+{
+  "1": {
+    "0": "1",
+    "1": {
+      "0": "18437552",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "1",
+    "text": "Shoulder immobilization",
+    "tyorth": "T"
+  },
+  "2": {
+    "0": "1",
+    "1": {
+      "0": "18437555",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "2",
+    "text": "Sling",
+    "tyorth": "T"
+  },
+  "3": {
+    "0": "1",
+    "1": {
+      "0": "18437557",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "3",
+    "text": "Posterior long arm splint",
+    "tyorth": "T"
+  },
+  "4": {
+    "0": "1",
+    "1": {
+      "0": "18438261",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "4",
+    "text": "Posterior splint with sugar tong",
+    "tyorth": "T"
+  },
+  "5": {
+    "0": "1",
+    "1": {
+      "0": "18438261",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "5",
+    "text": "Volar splint",
+    "tyorth": "T"
+  },
+  "6": {
+    "0": "1",
+    "1": {
+      "0": "18438262",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "6",
+    "text": "Volar splint with sugar tong",
+    "tyorth": "T"
+  },
+  "7": {
+    "0": "1",
+    "1": {
+      "0": "18438262",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "7",
+    "text": "Ulna gutter splint",
+    "tyorth": "T"
+  },
+  "8": {
+    "0": "1",
+    "1": {
+      "0": "18438263",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "8",
+    "text": "Thumb spica splint",
+    "tyorth": "T"
+  },
+  "9": {
+    "0": "1",
+    "1": {
+      "0": "18438263",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "9",
+    "text": "Finger splint",
+    "tyorth": "T"
+  },
+  "10": {
+    "0": "1",
+    "1": {
+      "0": "18438263",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "10",
+    "text": "Prepared wrist splint",
+    "tyorth": "T"
+  },
+  "11": {
+    "0": "1",
+    "1": {
+      "0": "18438264",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "A",
+    "seq": "11",
+    "text": "Other:",
+    "tyorth": "TO"
+  },
+  "12": {
+    "0": "1",
+    "1": {
+      "0": "18438264",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "1",
+    "text": "Shoulder immobilization",
+    "tyorth": "T"
+  },
+  "13": {
+    "0": "1",
+    "1": {
+      "0": "18438264",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "2",
+    "text": "Sling",
+    "tyorth": "T"
+  },
+  "14": {
+    "0": "1",
+    "1": {
+      "0": "18438264",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "3",
+    "text": "Posterior long arm splint",
+    "tyorth": "T"
+  },
+  "15": {
+    "0": "1",
+    "1": {
+      "0": "18438265",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "4",
+    "text": "Posterior splint with sugar tong",
+    "tyorth": "T"
+  },
+  "16": {
+    "0": "1",
+    "1": {
+      "0": "18438265",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "5",
+    "text": "Volar splint",
+    "tyorth": "T"
+  },
+  "17": {
+    "0": "1",
+    "1": {
+      "0": "18438265",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "6",
+    "text": "Volar splint with sugar tong",
+    "tyorth": "T"
+  },
+  "18": {
+    "0": "1",
+    "1": {
+      "0": "18438265",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "7",
+    "text": "Ulna gutter splint",
+    "tyorth": "T"
+  },
+  "19": {
+    "0": "1",
+    "1": {
+      "0": "18438265",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "8",
+    "text": "Thumb spica splint",
+    "tyorth": "T"
+  },
+  "20": {
+    "0": "1",
+    "1": {
+      "0": "18438266",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "9",
+    "text": "Finger splint",
+    "tyorth": "T"
+  },
+  "21": {
+    "0": "1",
+    "1": {
+      "0": "18438266",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "10",
+    "text": "Prepared wrist splint",
+    "tyorth": "T"
+  },
+  "22": {
+    "0": "2",
+    "1": {
+      "0": "18438266",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18800052",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Other"
+    },
+    "dict": "ewpoedorth",
+    "grporth": "B",
+    "seq": "11",
+    "text": "Other:",
+    "tyorth": "TO"
+  },
+  "23": {
+    "0": "1",
+    "1": {
+      "0": "18438266",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "1",
+    "text": "Knee immobilizer",
+    "tyorth": "T"
+  },
+  "24": {
+    "0": "1",
+    "1": {
+      "0": "18438266",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "2",
+    "text": "Ankle sugar tong splint",
+    "tyorth": "T"
+  },
+  "25": {
+    "0": "1",
+    "1": {
+      "0": "18438267",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "3",
+    "text": "Posterior leg splint",
+    "tyorth": "T"
+  },
+  "26": {
+    "0": "1",
+    "1": {
+      "0": "18438267",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "4",
+    "text": "Posterior leg splint with sugar tong",
+    "tyorth": "T"
+  },
+  "27": {
+    "0": "1",
+    "1": {
+      "0": "18438267",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "5",
+    "text": "Crutches",
+    "tyorth": "T"
+  },
+  "28": {
+    "0": "1",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "6",
+    "text": "Cane",
+    "tyorth": "T"
+  },
+  "29": {
+    "0": "1",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "7",
+    "text": "Air cast",
+    "tyorth": "T"
+  },
+  "30": {
+    "0": "2",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18800052",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Other"
+    },
+    "dict": "ewpoedorth",
+    "grporth": "C",
+    "seq": "8",
+    "text": "Other:",
+    "tyorth": "TO"
+  },
+  "31": {
+    "0": "1",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "1",
+    "text": "Knee immobilizer",
+    "tyorth": "T"
+  },
+  "32": {
+    "0": "1",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "2",
+    "text": "Ankle sugar tong splint",
+    "tyorth": "T"
+  },
+  "33": {
+    "0": "1",
+    "1": {
+      "0": "18438268",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "3",
+    "text": "Posterior leg splint",
+    "tyorth": "T"
+  },
+  "34": {
+    "0": "1",
+    "1": {
+      "0": "18438269",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "4",
+    "text": "Posterior leg splint with sugar tong",
+    "tyorth": "T"
+  },
+  "35": {
+    "0": "1",
+    "1": {
+      "0": "18438269",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "5",
+    "text": "Crutches",
+    "tyorth": "T"
+  },
+  "36": {
+    "0": "1",
+    "1": {
+      "0": "18438269",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "6",
+    "text": "Cane",
+    "tyorth": "T"
+  },
+  "37": {
+    "0": "1",
+    "1": {
+      "0": "18438269",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "7",
+    "text": "Air cast",
+    "tyorth": "T"
+  },
+  "38": {
+    "0": "2",
+    "1": {
+      "0": "18438269",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18800052",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Other"
+    },
+    "dict": "ewpoedorth",
+    "grporth": "D",
+    "seq": "8",
+    "text": "Other:",
+    "tyorth": "TO"
+  },
+  "39": {
+    "0": "1",
+    "1": {
+      "0": "18438270",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "E",
+    "seq": "1",
+    "text": "Miami J collar - appropriate size",
+    "tyorth": "T"
+  },
+  "40": {
+    "0": "1",
+    "1": {
+      "0": "18438270",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedorth",
+    "grporth": "E",
+    "seq": "2",
+    "text": "Basic collar",
+    "tyorth": "T"
+  },
+  "41": {
+    "0": "2",
+    "1": {
+      "0": "18438270",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18800052",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Other"
+    },
+    "dict": "ewpoedorth",
+    "grporth": "E",
+    "seq": "3",
+    "text": "Other:",
+    "tyorth": "TO"
+  },
+  "c": "41",
+  "i": {
+    "grporth.seq": {
+      "A": {
+        "1": {
+          "1": "1"
+        },
+        "2": {
+          "2": "1"
+        },
+        "3": {
+          "3": "1"
+        },
+        "4": {
+          "4": "1"
+        },
+        "5": {
+          "5": "1"
+        },
+        "6": {
+          "6": "1"
+        },
+        "7": {
+          "7": "1"
+        },
+        "8": {
+          "8": "1"
+        },
+        "9": {
+          "9": "1"
+        },
+        "10": {
+          "10": "1"
+        },
+        "11": {
+          "11": "1"
+        }
+      },
+      "B": {
+        "1": {
+          "12": "1"
+        },
+        "2": {
+          "13": "1"
+        },
+        "3": {
+          "14": "1"
+        },
+        "4": {
+          "15": "1"
+        },
+        "5": {
+          "16": "1"
+        },
+        "6": {
+          "17": "1"
+        },
+        "7": {
+          "18": "1"
+        },
+        "8": {
+          "19": "1"
+        },
+        "9": {
+          "20": "1"
+        },
+        "10": {
+          "21": "1"
+        },
+        "11": {
+          "22": "1"
+        }
+      },
+      "C": {
+        "1": {
+          "23": "1"
+        },
+        "2": {
+          "24": "1"
+        },
+        "3": {
+          "25": "1"
+        },
+        "4": {
+          "26": "1"
+        },
+        "5": {
+          "27": "1"
+        },
+        "6": {
+          "28": "1"
+        },
+        "7": {
+          "29": "1"
+        },
+        "8": {
+          "30": "1"
+        }
+      },
+      "D": {
+        "1": {
+          "31": "1"
+        },
+        "2": {
+          "32": "1"
+        },
+        "3": {
+          "33": "1"
+        },
+        "4": {
+          "34": "1"
+        },
+        "5": {
+          "35": "1"
+        },
+        "6": {
+          "36": "1"
+        },
+        "7": {
+          "37": "1"
+        },
+        "8": {
+          "38": "1"
+        }
+      },
+      "E": {
+        "1": {
+          "39": "1"
+        },
+        "2": {
+          "40": "1"
+        },
+        "3": {
+          "41": "1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "1": {
+    "0": "1",
+    "1": {
+      "0": "18437558",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "A",
+    "seq": "1",
+    "text": "Ear irrigation",
+    "tygen": "T"
+  },
+  "2": {
+    "0": "1",
+    "1": {
+      "0": "18437558",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "A",
+    "seq": "2",
+    "text": "Eye irrigation",
+    "tygen": "T"
+  },
+  "3": {
+    "0": "1",
+    "1": {
+      "0": "18437559",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "A",
+    "seq": "3",
+    "text": "Visual acuity",
+    "tygen": "T"
+  },
+  "4": {
+    "0": "1",
+    "1": {
+      "0": "18437559",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "B",
+    "seq": "1",
+    "text": "NGT\/OGT",
+    "tygen": "T"
+  },
+  "5": {
+    "0": "2",
+    "1": {
+      "0": "18438256",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18752312",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Foley insertion - male"
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "B",
+    "seq": "5",
+    "text": "Foley insertion",
+    "tygen": "T"
+  },
+  "6": {
+    "0": "2",
+    "1": {
+      "0": "18438257",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18752312",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "seq": "6"
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "B",
+    "text": "Foley insertion - female",
+    "tygen": "T"
+  },
+  "7": {
+    "0": "2",
+    "1": {
+      "0": "18438257",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20397226",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "grpgen": "C",
+      "site": {
+        "1": "",
+        "2": ""
+      }
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "W",
+    "seq": "1",
+    "site": {
+      "1": "EW",
+      "2": "CQ"
+    },
+    "text": "Simple dressing",
+    "tygen": "T"
+  },
+  "8": {
+    "0": "2",
+    "1": {
+      "0": "18438258",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20397226",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "grpgen": "C",
+      "site": {
+        "1": "",
+        "2": ""
+      }
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "W",
+    "seq": "2",
+    "site": {
+      "1": "EW",
+      "2": "CQ"
+    },
+    "text": "Wound cleansing",
+    "tygen": "T"
+  },
+  "9": {
+    "0": "1",
+    "1": {
+      "0": "18438258",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "D",
+    "seq": "1",
+    "text": "FSBG",
+    "tygen": "T"
+  },
+  "10": {
+    "0": "1",
+    "1": {
+      "0": "18438258",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "D",
+    "seq": "2",
+    "text": "Urine HCG",
+    "tygen": "T"
+  },
+  "11": {
+    "0": "1",
+    "1": {
+      "0": "18438258",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "E",
+    "seq": "1",
+    "text": "Activity as tolerated",
+    "tygen": "T"
+  },
+  "12": {
+    "0": "1",
+    "1": {
+      "0": "18438258",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "E",
+    "seq": "2",
+    "text": "Bedrest",
+    "tygen": "T"
+  },
+  "13": {
+    "0": "1",
+    "1": {
+      "0": "18438259",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "E",
+    "seq": "3",
+    "text": "Log roll",
+    "tygen": "T"
+  },
+  "14": {
+    "0": "2",
+    "1": {
+      "0": "18438259",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18438260",
+      "1": "edd",
+      "2": "4717 DR ",
+      "grpgen": "D",
+      "item": ""
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "F",
+    "item": "14",
+    "seq": "1",
+    "text": "Peak flow",
+    "tygen": "T"
+  },
+  "15": {
+    "0": "1",
+    "1": {
+      "0": "18438259",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "F",
+    "seq": "2",
+    "text": "Incentive Spirometer",
+    "tygen": "T"
+  },
+  "16": {
+    "0": "1",
+    "1": {
+      "0": "18438260",
+      "1": "edd",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedgen",
+    "grpgen": "F",
+    "seq": "3",
+    "text": "Ambulatory O2 Sat",
+    "tygen": "T"
+  },
+  "17": {
+    "0": "1",
+    "1": {
+      "0": "18896268",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grpgen": "E",
+    "seq": "40",
+    "text": "Restraints",
+    "tygen": "T"
+  },
+  "18": {
+    "0": "1",
+    "1": {
+      "0": "18913674",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grpgen": "BB",
+    "seq": "10",
+    "text": "Red Cell Products",
+    "tygen": "T"
+  },
+  "19": {
+    "0": "1",
+    "1": {
+      "0": "18913674",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grpgen": "BB",
+    "seq": "20",
+    "text": "Platelets",
+    "tygen": "T"
+  },
+  "20": {
+    "0": "1",
+    "1": {
+      "0": "18913675",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grpgen": "BB",
+    "seq": "30",
+    "text": "Frozen Plasma",
+    "tygen": "T"
+  },
+  "21": {
+    "0": "1",
+    "1": {
+      "0": "19951892",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "grpgen": "BB",
+    "seq": "40",
+    "text": "Rhogam and Other Blood Derivatives",
+    "tygen": "T"
+  },
+  "22": {
+    "0": "1",
+    "1": {
+      "0": "20397068",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "grpgen": "O",
+    "seq": "10",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Aspirin taken before arrival",
+    "tygen": "T"
+  },
+  "23": {
+    "0": "2",
+    "1": {
+      "0": "20397261",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "20407349",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "grpgen": "C",
+    "infobutton": "ETT only for patients who can ambulate without ekg changes (LBBB, LVH, paced rhythms, digoxin therapy, >1mm of ST depression, and pre-excitation syndromes)",
+    "seq": "10",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Exercise Stress Test (ETT)",
+    "tygen": "POE"
+  },
+  "24": {
+    "0": "1",
+    "1": {
+      "0": "20397261",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "grpgen": "C",
+    "seq": "20",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Echocardiogram (TTE)",
+    "tygen": "POE"
+  },
+  "25": {
+    "0": "2",
+    "1": {
+      "0": "20397262",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "20407351",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "grpgen": "C",
+    "infobutton": "Stress echo for patients WITH ekg changes (LBBB, LVH, paced rhythms, digoxin therapy, >1mm of ST depression, and pre-excitation syndromes)",
+    "seq": "15",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Stress Echo",
+    "tygen": "POE"
+  },
+  "26": {
+    "0": "1",
+    "1": {
+      "0": "21754788",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "grpgen": "D",
+    "seq": "100",
+    "site": {
+      "1": "EW",
+      "2": "CA",
+      "3": "CQ"
+    },
+    "text": "Post void residual",
+    "tygen": "T"
+  },
+  "c": "21",
+  "i": {
+    "grpgen.seq": {
+      "A": {
+        "1": {
+          "1": "1"
+        },
+        "2": {
+          "2": "1"
+        },
+        "3": {
+          "3": "1"
+        }
+      },
+      "B": {
+        "1": {
+          "4": "1"
+        },
+        "5": {
+          "5": "1"
+        }
+      },
+      "BB": {
+        "10": {
+          "18": "1"
+        },
+        "20": {
+          "19": "1"
+        },
+        "30": {
+          "20": "1"
+        },
+        "40": {
+          "21": "1"
+        }
+      },
+      "C": {
+        "10": {
+          "23": "1"
+        },
+        "15": {
+          "25": "1"
+        },
+        "20": {
+          "24": "1"
+        }
+      },
+      "D": {
+        "1": {
+          "9": "1"
+        },
+        "2": {
+          "10": "1"
+        },
+        "100": {
+          "26": "1"
+        }
+      },
+      "E": {
+        "1": {
+          "11": "1"
+        },
+        "2": {
+          "12": "1"
+        },
+        "3": {
+          "13": "1"
+        },
+        "40": {
+          "17": "1"
+        }
+      },
+      "F": {
+        "1": {
+          "14": "1"
+        },
+        "2": {
+          "15": "1"
+        },
+        "3": {
+          "16": "1"
+        }
+      },
+      "O": {
+        "10": {
+          "22": "1"
+        }
+      },
+      "W": {
+        "1": {
+          "7": "1"
+        },
+        "2": {
+          "8": "1"
+        }
+      }
+    }
+  }
+}

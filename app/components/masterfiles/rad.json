@@ -1,0 +1,1976 @@
+{
+  "1": {
+    "0": "3",
+    "1": {
+      "0": "18627681",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18627681",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "item": "",
+      "lrb": "",
+      "text": ""
+    },
+    "3": {
+      "0": "18863261",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "N",
+      "oex": "C11 CHEST (PA\/LAT)",
+      "radex": "CHEST (PA\/LAT)",
+      "radexid": ""
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "item": "1",
+    "mod": "A",
+    "oex": "C11 CHEST (PA & LAT)",
+    "radex": "CHEST (PA & LAT)",
+    "radexid": "C11",
+    "seq": "1",
+    "text": "XR Chest PA & Lateral"
+  },
+  "2": {
+    "0": "1",
+    "1": {
+      "0": "18627682",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "A",
+    "oex": "C12 CHEST (PORTABLE AP)",
+    "radex": "CHEST (PORTABLE AP)",
+    "seq": "2",
+    "text": "XR Chest AP Portable"
+  },
+  "3": {
+    "0": "1",
+    "1": {
+      "0": "18627683",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "A",
+    "oex": "S19 TRAUMA #2 (AP CXR & PELVIS PORT)",
+    "radex": "TRAUMA #2 (AP CXR & PELVIS PORT)",
+    "seq": "3",
+    "text": "Trauma (Chest & Pelvis)"
+  },
+  "4": {
+    "0": "1",
+    "1": {
+      "0": "18627683",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "B",
+    "oex": "Q111 CT HEAD W\/O CONTRAST",
+    "radex": "CT HEAD W\/O CONTRAST",
+    "seq": "4",
+    "text": "CT Head w\/o Contrast"
+  },
+  "5": {
+    "0": "2",
+    "1": {
+      "0": "18627684",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "19390130",
+      "1": "ewpoed",
+      "2": "4613 DR ",
+      "oex": "Q31 CT C-SPINE",
+      "radex": "CT C-SPINE",
+      "radexid": ""
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "B",
+    "oex": "Q311 CT C-SPINE W\/O CONTRAST",
+    "radex": "CT C-SPINE W\/O CONTRAST",
+    "radexid": "Q311",
+    "seq": "5",
+    "text": "CT C-spine w\/o Contrast"
+  },
+  "6": {
+    "0": "1",
+    "1": {
+      "0": "18627686",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "B",
+    "oex": "Q412 CT CHEST W\/CONTRAST",
+    "radex": "CT CHEST W\/CONTRAST",
+    "seq": "6",
+    "text": "CT Chest WITH Contrast"
+  },
+  "7": {
+    "0": "7",
+    "1": {
+      "0": "18627687",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18903405",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "radexid": ""
+    },
+    "3": {
+      "0": "18903406",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "4": {
+      "0": "18965898",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "Q422 CT ABDOMEN W\/CONTRAST",
+      "radex": "CT ABDOMEN W\/CONTRAST",
+      "radexid": "Q422",
+      "text": "CT Abdomen WITH Contrast"
+    },
+    "5": {
+      "0": "19701532",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "text": "CT Abd + Pelvis  WITH Contrast"
+    },
+    "6": {
+      "0": "19728002",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "7": {
+      "0": "19728004",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": "Oral Contrast is recommended in patients who are thin, have bowel altering pathology such as crohns or ulcerative colitis, or bowel surgery."
+    },
+    "dict": "ewpoedrad",
+    "grprad": "A",
+    "mod": "B",
+    "oex": "Q4432 CT ABD & PELVIS WITH CONTRAST",
+    "radex": "CT ABD & PELVIS WITH CONTRAST",
+    "radexid": "Q4432",
+    "seq": "7",
+    "text": "CT Abd + Pelvis  WITH IV Contrast NO_PO Contrast"
+  },
+  "8": {
+    "0": "3",
+    "1": {
+      "0": "18627688",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18772458",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "Y",
+      "oex": "E119 GLENO-HUMERAL SHOULDER (W\/ Y VIEW)",
+      "radex": "GLENO-HUMERAL SHOULDER (W\/ Y VIEW)",
+      "radexid": ""
+    },
+    "3": {
+      "0": "18920795",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "E118 GLENO-HUMERAL SHOULDER (W\/O Y VIEW)",
+      "radex": "GLENO-HUMERAL SHOULDER (W\/O Y VIEW)",
+      "radexid": "E118"
+    },
+    "dict": "ewpoedrad",
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E119 GLENO-HUMERAL SHOULDER (W\/ Y VIEW)",
+    "radex": "GLENO-HUMERAL SHOULDER (W\/ Y VIEW)",
+    "radexid": "E119",
+    "seq": "1",
+    "text": "Shoulder"
+  },
+  "9": {
+    "0": "4",
+    "1": {
+      "0": "18627689",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18631441",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "grprad": "A",
+      "item": ""
+    },
+    "3": {
+      "0": "18671667",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "Y",
+      "radexid": ""
+    },
+    "4": {
+      "0": "18671668",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "dict": "ewpoedrad",
+    "grprad": "B",
+    "item": "9",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E121 HUMERUS (AP & LAT)",
+    "radex": "HUMERUS (AP & LAT)",
+    "radexid": "E121",
+    "seq": "2",
+    "text": "Humerus"
+  },
+  "10": {
+    "0": "1",
+    "1": {
+      "0": "18711273",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E131 ELBOW (AP, LAT & OBLIQUE)",
+    "radex": "ELBOW (AP, LAT & OBLIQUE)",
+    "radexid": "E131",
+    "seq": "30",
+    "text": "Elbow"
+  },
+  "11": {
+    "0": "1",
+    "1": {
+      "0": "18711273",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E141 FOREARM (AP & LAT)",
+    "radex": "FOREARM (AP & LAT)",
+    "radexid": "E141",
+    "seq": "40",
+    "text": "Forearm"
+  },
+  "12": {
+    "0": "1",
+    "1": {
+      "0": "18711274",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E151 WRIST(3 + VIEWS)",
+    "radex": "WRIST(3 + VIEWS)",
+    "radexid": "E151",
+    "seq": "50",
+    "text": "Wrist"
+  },
+  "13": {
+    "0": "1",
+    "1": {
+      "0": "18711274",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E161 HAND (AP, LAT & OBLIQUE)",
+    "radex": "HAND (AP, LAT & OBLIQUE)",
+    "radexid": "E161",
+    "seq": "60",
+    "text": "Hand"
+  },
+  "14": {
+    "0": "1",
+    "1": {
+      "0": "18711275",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E18 FINGER(S),2+VIEWS",
+    "radex": "FINGER(S),2+VIEWS",
+    "radexid": "E18",
+    "seq": "70",
+    "text": "Fingers"
+  },
+  "15": {
+    "0": "2",
+    "1": {
+      "0": "18711275",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18802363",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "LR"
+    },
+    "grprad": "B",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "C61 CLAVICLE",
+    "radex": "CLAVICLE",
+    "radexid": "C61",
+    "seq": "80",
+    "text": "Clavicle"
+  },
+  "16": {
+    "0": "1",
+    "1": {
+      "0": "18711276",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "mod": "A",
+    "oex": "A21 PELVIS (AP ONLY)",
+    "radex": "PELVIS (AP ONLY)",
+    "radexid": "A21",
+    "seq": "10",
+    "text": "Pelvis"
+  },
+  "17": {
+    "0": "2",
+    "1": {
+      "0": "18711277",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18802365",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": ""
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E212 HIP UNILAT MIN 2 VIEWS",
+    "radex": "HIP UNILAT MIN 2 VIEWS",
+    "radexid": "E212",
+    "seq": "20",
+    "text": "Hip"
+  },
+  "18": {
+    "0": "1",
+    "1": {
+      "0": "18711278",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E221 FEMUR (AP & LAT)",
+    "radex": "FEMUR (AP & LAT)",
+    "radexid": "E221",
+    "seq": "30",
+    "text": "Femur"
+  },
+  "19": {
+    "0": "2",
+    "1": {
+      "0": "18711279",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18820457",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "LR"
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E231 KNEE (AP, LAT & OBLIQUE)",
+    "radex": "KNEE (AP, LAT & OBLIQUE)",
+    "radexid": "E231",
+    "seq": "40",
+    "text": "Knee"
+  },
+  "20": {
+    "0": "2",
+    "1": {
+      "0": "18711279",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18865197",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "Patellar Views"
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E2384 PATELLA (AP, LAT & SUNRISE)",
+    "radex": "PATELLA (AP, LAT & SUNRISE)",
+    "radexid": "E2384",
+    "seq": "50",
+    "text": "Patella Views"
+  },
+  "21": {
+    "0": "1",
+    "1": {
+      "0": "18711280",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E241 TIB\/FIB (AP & LAT)",
+    "radex": "TIB\/FIB (AP & LAT)",
+    "radexid": "E241",
+    "seq": "60",
+    "text": "Tib\/Fib"
+  },
+  "22": {
+    "0": "1",
+    "1": {
+      "0": "18711281",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E252 ANKLE (AP, MORTISE & LAT)",
+    "radex": "ANKLE (AP, MORTISE & LAT)",
+    "radexid": "E252",
+    "seq": "70",
+    "text": "Ankle"
+  },
+  "23": {
+    "0": "1",
+    "1": {
+      "0": "18711281",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E261 FOOT AP,LAT & OBL",
+    "radex": "FOOT AP,LAT & OBL",
+    "radexid": "E261",
+    "seq": "80",
+    "text": "Foot"
+  },
+  "24": {
+    "0": "1",
+    "1": {
+      "0": "18711282",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "C",
+    "lrb": "LRB",
+    "mod": "A",
+    "oex": "E28 TOE(S), 2+ VIEW",
+    "radex": "TOE(S), 2+ VIEW",
+    "radexid": "E28",
+    "seq": "90",
+    "text": "Toes"
+  },
+  "25": {
+    "0": "1",
+    "1": {
+      "0": "18711287",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "S111 C-SPINE, TRAUMA",
+    "radex": "C-SPINE, TRAUMA",
+    "radexid": "S111",
+    "seq": "10",
+    "text": "C-Spine X-ray"
+  },
+  "26": {
+    "0": "2",
+    "1": {
+      "0": "18711288",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18900683",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "S22 T-L SPINE 3 FILM AP & LAT",
+      "radex": "T-L SPINE 3 FILM AP & LAT",
+      "radexid": "S22"
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "S21 T-SPINE",
+    "radex": "T-SPINE",
+    "radexid": "S21",
+    "seq": "20",
+    "text": "T-Spine X-ray"
+  },
+  "27": {
+    "0": "3",
+    "1": {
+      "0": "18711289",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18802370",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "3": {
+      "0": "18820460",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "S31 L-SPINE (AP & LAT)",
+      "radex": "L-SPINE (AP & LAT)",
+      "radexid": "S31"
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "S32 LUMBO-SACRAL SPINE (AP & LAT)",
+    "radex": "LUMBO-SACRAL SPINE (AP & LAT)",
+    "radexid": "S32",
+    "seq": "30",
+    "text": "LS-Spine X-ray"
+  },
+  "28": {
+    "0": "1",
+    "1": {
+      "0": "18711291",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "H14 ORBITS (WATERS, CALDWELL & LAT)",
+    "radex": "ORBITS (WATERS, CALDWELL & LAT)",
+    "radexid": "H14",
+    "seq": "40",
+    "text": "Orbit X-ray"
+  },
+  "29": {
+    "0": "1",
+    "1": {
+      "0": "18711291",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "H44 MANDIBLE (PANOREX ONLY)",
+    "radex": "MANDIBLE (PANOREX ONLY)",
+    "radexid": "H44",
+    "seq": "50",
+    "text": "Mandible\/Panorex"
+  },
+  "30": {
+    "0": "1",
+    "1": {
+      "0": "18711292",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "H71 NECK SOFT TISSUES",
+    "radex": "NECK SOFT TISSUES",
+    "radexid": "H71",
+    "seq": "60",
+    "text": "Soft-Tissue Neck"
+  },
+  "31": {
+    "0": "1",
+    "1": {
+      "0": "18711292",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "A11 ABDOMEN (SUPINE & ERECT)",
+    "radex": "ABDOMEN (SUPINE & ERECT)",
+    "radexid": "A11",
+    "seq": "70",
+    "text": "Abdomen KUB & Upright"
+  },
+  "32": {
+    "0": "1",
+    "1": {
+      "0": "18711293",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "D",
+    "mod": "A",
+    "oex": "A12 ABDOMEN SUPINE",
+    "radex": "ABDOMEN SUPINE",
+    "radexid": "A12",
+    "seq": "80",
+    "text": "Abdomen Flat Plate"
+  },
+  "33": {
+    "0": "2",
+    "1": {
+      "0": "18711294",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18911057",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "Q1211 CT HEAD W\/ CONTRAST",
+      "radex": "CT HEAD W\/ CONTRAST",
+      "radexid": "Q1211"
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q111 CT HEAD W\/O CONTRAST",
+    "radex": "CT HEAD W\/O CONTRAST",
+    "radexid": "Q111",
+    "seq": "10",
+    "text": "CT Head"
+  },
+  "34": {
+    "0": "1",
+    "1": {
+      "0": "18711294",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q411 CT CHEST W\/O CONTRAST",
+    "radex": "CT CHEST W\/O CONTRAST",
+    "radexid": "Q411",
+    "seq": "20",
+    "text": "CT Chest"
+  },
+  "35": {
+    "0": "8",
+    "1": {
+      "0": "18711295",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18965899",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "Q421 CT ABDOMEN W\/O CONTRAST",
+      "radex": "CT ABDOMEN W\/O CONTRAST",
+      "radexid": "Q421",
+      "text": "CT Abdomen"
+    },
+    "3": {
+      "0": "19701533",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+      "radex": "CT ABD & PELVIS W\/O CONTRAST",
+      "radexid": "Q4431",
+      "text": "CT Abd + Pelvis"
+    },
+    "4": {
+      "0": "19701533",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4832 CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radex": "CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radexid": "Q4832"
+    },
+    "5": {
+      "0": "20406231",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+      "radex": "CT ABD & PELVIS W\/O CONTRAST",
+      "radexid": "Q4431",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "CT Abd + Pelvis NO_PO Contrast"
+    },
+    "6": {
+      "0": "20436504",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4832 CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radex": "CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radexid": "Q4832"
+    },
+    "7": {
+      "0": "21795320",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+      "radex": "CT ABD & PELVIS W\/O CONTRAST",
+      "radexid": "Q4431",
+      "site": {
+        "2": "CQ",
+        "3": ""
+      }
+    },
+    "8": {
+      "0": "21838270",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4832 CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radex": "CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radexid": "Q4832"
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+    "radex": "CT ABD & PELVIS W\/O CONTRAST",
+    "radexid": "Q4431",
+    "seq": "30",
+    "site": {
+      "1": "EW",
+      "2": "CA",
+      "3": "CQ"
+    },
+    "text": "CT Abd + Pelvis NO_IV NO_PO Contrast"
+  },
+  "36": {
+    "0": "3",
+    "1": {
+      "0": "18711296",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18772459",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "CT C=spine"
+    },
+    "3": {
+      "0": "18802376",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "CT C-spine"
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q311 CT C-SPINE W\/O CONTRAST",
+    "radex": "CT C-SPINE W\/O CONTRAST",
+    "radexid": "Q311",
+    "seq": "40",
+    "text": "CT C-Spine"
+  },
+  "37": {
+    "0": "1",
+    "1": {
+      "0": "18711296",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q321 CT T-SPINE W\/O CONTRAST",
+    "radex": "CT T-SPINE W\/O CONTRAST",
+    "radexid": "Q321",
+    "seq": "50",
+    "text": "CT T-Spine"
+  },
+  "38": {
+    "0": "1",
+    "1": {
+      "0": "18711297",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q331 CT L-SPINE W\/O CONTRAST",
+    "radex": "CT L-SPINE W\/O CONTRAST",
+    "radexid": "Q331",
+    "seq": "60",
+    "text": "CT L-Spine"
+  },
+  "39": {
+    "0": "1",
+    "1": {
+      "0": "18711297",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q115 CT ORBIT, SELLA & IAC W\/O CONTRAST",
+    "radex": "CT ORBIT, SELLA & IAC W\/O CONTRAST",
+    "radexid": "Q115",
+    "seq": "70",
+    "text": "CT Orbits"
+  },
+  "40": {
+    "0": "1",
+    "1": {
+      "0": "18711298",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q116 CT SINUS\/MANDIBLE\/MAXILLOFACIAL W\/O CONTRAST",
+    "radex": "CT SINUS\/MANDIBLE\/MAXILLOFACIAL W\/O CONTRAST",
+    "radexid": "Q116",
+    "seq": "80",
+    "text": "CT Maxillofacial"
+  },
+  "41": {
+    "0": "1",
+    "1": {
+      "0": "18711298",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q1211 CT HEAD W\/ CONTRAST",
+    "radex": "CT HEAD W\/ CONTRAST",
+    "radexid": "Q1211",
+    "seq": "10",
+    "text": "CT Head"
+  },
+  "42": {
+    "0": "1",
+    "1": {
+      "0": "18711299",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q22 CT NECK W\/CONTRAST (EG:PAROTIDS)",
+    "radex": "CT NECK W\/CONTRAST (EG:PAROTIDS)",
+    "radexid": "Q22",
+    "seq": "20",
+    "text": "CT Neck"
+  },
+  "43": {
+    "0": "1",
+    "1": {
+      "0": "18711300",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q412 CT CHEST W\/CONTRAST",
+    "radex": "CT CHEST W\/CONTRAST",
+    "radexid": "Q412",
+    "seq": "30",
+    "text": "CT Chest"
+  },
+  "44": {
+    "0": "5",
+    "1": {
+      "0": "18711300",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18965900",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "Q422 CT ABDOMEN W\/CONTRAST",
+      "radex": "CT ABDOMEN W\/CONTRAST",
+      "radexid": "Q422",
+      "text": "CT Abdomen"
+    },
+    "3": {
+      "0": "19701535",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "text": "CT Abd + Pelvis"
+    },
+    "4": {
+      "0": "20406229",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "CT Abd + Pelvis NO_PO Contrast"
+    },
+    "5": {
+      "0": "21795319",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "site": {
+        "2": "CQ",
+        "3": ""
+      }
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q4432 CT ABD & PELVIS WITH CONTRAST",
+    "radex": "CT ABD & PELVIS WITH CONTRAST",
+    "radexid": "Q4432",
+    "seq": "40",
+    "site": {
+      "1": "EW",
+      "2": "CA",
+      "3": "CQ"
+    },
+    "text": "CT Abd + Pelvis w\/ IV NO_PO Contrast"
+  },
+  "45": {
+    "0": "3",
+    "1": {
+      "0": "18711301",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18711303",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "CT Orbits (+\/-)"
+    },
+    "3": {
+      "0": "18782579",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "CT Orbits (l+\/l-)"
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q1215 CT ORBITS, SELLA & IAC W\/ CONTRAST",
+    "radex": "CT ORBITS, SELLA & IAC W\/ CONTRAST",
+    "radexid": "Q1215",
+    "seq": "50",
+    "text": "CT Orbits"
+  },
+  "46": {
+    "0": "2",
+    "1": {
+      "0": "18711302",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18782580",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "CT Maxillofacial (l+\/l-)"
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q1217 CT SINUS W\/ CONTRAST",
+    "radex": "CT SINUS W\/ CONTRAST",
+    "radexid": "Q1217",
+    "seq": "60",
+    "text": "CT Maxillofacial"
+  },
+  "47": {
+    "0": "1",
+    "1": {
+      "0": "18711304",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "G",
+    "mod": "B",
+    "oex": "Q1213 CTA HEAD W&W\/O C & RECONS",
+    "radex": "CTA HEAD W&W\/O C & RECONS",
+    "radexid": "Q1213",
+    "seq": "10",
+    "text": "CTA Head"
+  },
+  "48": {
+    "0": "1",
+    "1": {
+      "0": "18711304",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "G",
+    "mod": "B",
+    "oex": "Q25 CTA NECK W&W\/OC & RECONS",
+    "radex": "CTA NECK W&W\/OC & RECONS",
+    "radexid": "Q25",
+    "seq": "20",
+    "text": "CTA Neck"
+  },
+  "49": {
+    "0": "2",
+    "1": {
+      "0": "18711304",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18893421",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "Q446 CTA CHEST AND ABD",
+      "radex": "CTA CHEST AND ABD",
+      "radexid": "Q446"
+    },
+    "grprad": "G",
+    "mod": "B",
+    "oex": "Q416 CTA CHEST W&W\/O C&RECONS, NON-CORONARY",
+    "radex": "CTA CHEST W&W\/O C&RECONS, NON-CORONARY",
+    "radexid": "Q416",
+    "seq": "30",
+    "text": "CTA Chest"
+  },
+  "50": {
+    "0": "1",
+    "1": {
+      "0": "18711305",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "G",
+    "mod": "B",
+    "oex": "Q4194 CTA CORONARY ARTERIES W\/3D W\/FUNCTION",
+    "radex": "CTA CORONARY ARTERIES W\/3D W\/FUNCTION",
+    "radexid": "Q4194",
+    "seq": "40",
+    "text": "CTA Coronaries"
+  },
+  "51": {
+    "0": "1",
+    "1": {
+      "0": "18711306",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "G",
+    "mod": "B",
+    "oex": "Q447 CTA ABD & PELVIS",
+    "radex": "CTA ABD & PELVIS",
+    "radexid": "Q447",
+    "seq": "50",
+    "text": "CTA Abdomen"
+  },
+  "52": {
+    "0": "1",
+    "1": {
+      "0": "18711312",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "mod": "C",
+    "oex": "U314 LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+    "radex": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+    "radexid": "U314",
+    "seq": "10",
+    "text": "US Liver\/Gallbladder"
+  },
+  "53": {
+    "0": "5",
+    "1": {
+      "0": "18711312",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18711316",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "lrb": "",
+      "text": "US Lower Ext Veins (UR\/B)"
+    },
+    "3": {
+      "0": "18772404",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "oex": "U614 BILAT LOWER EXT VEINS",
+      "radex": "BILAT LOWER EXT VEINS",
+      "radexid": "U614"
+    },
+    "4": {
+      "0": "19548811",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "lrb": "LRB",
+      "text": "US Lower Ext Veins"
+    },
+    "5": {
+      "0": "19548815",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "text": "US Lower Ext Veins - Unilateral"
+    },
+    "grprad": "H",
+    "lrb": "LR",
+    "mod": "C",
+    "oex": "U612 UNILAT LOWER EXT VEINS",
+    "radex": "UNILAT LOWER EXT VEINS",
+    "radexid": "U612",
+    "seq": "20",
+    "text": "US Unilateral Lower Ext Veins"
+  },
+  "54": {
+    "0": "1",
+    "1": {
+      "0": "18711313",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "mod": "C",
+    "oex": "U52 PELVIS U.S., TRANSVAGINAL",
+    "radex": "PELVIS U.S., TRANSVAGINAL",
+    "radexid": "U52",
+    "seq": "30",
+    "text": "US Pelvic Transvag"
+  },
+  "55": {
+    "0": "1",
+    "1": {
+      "0": "18711314",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "mod": "C",
+    "oex": "U341 RENAL U.S.",
+    "radex": "RENAL U.S.",
+    "radexid": "U341",
+    "seq": "40",
+    "text": "US Renal Ultrasound"
+  },
+  "56": {
+    "0": "1",
+    "1": {
+      "0": "18711314",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "mod": "C",
+    "oex": "U342 RENAL TRANSPLANT U.S.",
+    "radex": "RENAL TRANSPLANT U.S.",
+    "radexid": "U342",
+    "seq": "50",
+    "text": "US Renal Transplant"
+  },
+  "57": {
+    "0": "1",
+    "1": {
+      "0": "18711315",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "mod": "C",
+    "oex": "U71 SCROTAL U.S.",
+    "radex": "SCROTAL U.S.",
+    "radexid": "U71",
+    "seq": "60",
+    "text": "US Scrotal Ultrasound"
+  },
+  "58": {
+    "0": "1",
+    "1": {
+      "0": "18711315",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "H",
+    "lrb": "LRB",
+    "mod": "C",
+    "oex": "U621 UNILAT UP EXT VEINS US",
+    "radex": "UNILAT UP EXT VEINS US",
+    "radexid": "U621",
+    "seq": "70",
+    "text": "US Upper Extremity"
+  },
+  "59": {
+    "0": "1",
+    "1": {
+      "0": "18711317",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "I",
+    "mod": "D",
+    "oex": "T9112 MR HEAD W & W\/O CONTRAST",
+    "radex": "MR HEAD W & W\/O CONTRAST",
+    "radexid": "T9112",
+    "seq": "10",
+    "text": "MR Head W & W\/O Contrast"
+  },
+  "60": {
+    "0": "1",
+    "1": {
+      "0": "18711318",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "I",
+    "mod": "D",
+    "oex": "T7742 STRK STROKE PROTOCOL",
+    "radex": "STRK STROKE PROTOCOL",
+    "radexid": "T7742",
+    "seq": "20",
+    "text": "MR Stroke Protocol"
+  },
+  "61": {
+    "0": "2",
+    "1": {
+      "0": "18711318",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "18711319",
+      "1": "ewpoed",
+      "2": "4717 DR ",
+      "text": "MR Brain"
+    },
+    "grprad": "I",
+    "mod": "D",
+    "oex": "T9711 MRA BRAIN W\/O CONTRAST",
+    "radex": "MRA BRAIN W\/O CONTRAST",
+    "radexid": "T9711",
+    "seq": "30",
+    "text": "MRA Brain"
+  },
+  "62": {
+    "0": "1",
+    "1": {
+      "0": "18711319",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "I",
+    "mod": "D",
+    "oex": "T9714 MRA NECK W\/O CONTRAST",
+    "radex": "MRA NECK W\/O CONTRAST",
+    "radexid": "T9714",
+    "seq": "40",
+    "text": "MRA Neck"
+  },
+  "63": {
+    "0": "3",
+    "1": {
+      "0": "18711320",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20587149",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "T9411 MR CERVICAL SPINE W\/O CONTRAST",
+      "radex": "MR CERVICAL SPINE W\/O CONTRAST",
+      "radexid": "T9411",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "C-Spine"
+    },
+    "3": {
+      "0": "20587151",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "grprad": "I",
+    "infobutton": "IV contrast to be given at radiologist discretion as clinically needed",
+    "mod": "D",
+    "oex": "T9412 MR C-SPINE SCAN WITH CONTRAST",
+    "radex": "MR C-SPINE SCAN WITH CONTRAST",
+    "radexid": "T9412",
+    "seq": "50",
+    "site": {
+      "1": "EW",
+      "2": "CQ"
+    },
+    "text": "C-Spine prn contrast"
+  },
+  "64": {
+    "0": "3",
+    "1": {
+      "0": "18711320",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20587150",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "T9421 MR THORACIC SPINE W\/O CONTRAST",
+      "radex": "MR THORACIC SPINE W\/O CONTRAST",
+      "radexid": "T9421",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "T-Spine"
+    },
+    "3": {
+      "0": "20587151",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "grprad": "I",
+    "infobutton": "IV contrast to be given at radiologist discretion as clinically needed",
+    "mod": "D",
+    "oex": "T9422 MR T SPINE SCAN WITH CONTRAST",
+    "radex": "MR T SPINE SCAN WITH CONTRAST",
+    "radexid": "T9422",
+    "seq": "60",
+    "site": {
+      "1": "EW",
+      "2": "CQ"
+    },
+    "text": "T-Spine prn contrast"
+  },
+  "65": {
+    "0": "3",
+    "1": {
+      "0": "18711321",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20587150",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "T9431 MR L SPINE W\/O CONTRAST",
+      "radex": "MR L SPINE W\/O CONTRAST",
+      "radexid": "T9431",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "L-Spine"
+    },
+    "3": {
+      "0": "20587151",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": ""
+    },
+    "grprad": "I",
+    "infobutton": "IV contrast to be given at radiologist discretion as clinically needed",
+    "mod": "D",
+    "oex": "T9432 MR L SPINE WITH CONTRAST",
+    "radex": "MR L SPINE WITH CONTRAST",
+    "radexid": "T9432",
+    "seq": "70",
+    "site": {
+      "1": "EW",
+      "2": "CQ"
+    },
+    "text": "L-Spine prn contrast"
+  },
+  "66": {
+    "0": "2",
+    "1": {
+      "0": "18749799",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20407352",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": "",
+      "site": {
+        "1": ""
+      }
+    },
+    "grprad": "J",
+    "infobutton": "Exercise MIBI for patients who can ambulate WITH ekg changes (LBBB, LVH, paced rhythms, digoxin therapy, >1mm of ST depression, and pre-excitation syndromes)",
+    "mod": "NM",
+    "nx": "C",
+    "radex": "NUC MYOCARDIAL PERFUSION WITH EXERCISE",
+    "seq": "1",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Myocardial Perf with Exercise"
+  },
+  "67": {
+    "0": "2",
+    "1": {
+      "0": "18749800",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "2": {
+      "0": "20407352",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "infobutton": "",
+      "site": {
+        "1": ""
+      }
+    },
+    "grprad": "J",
+    "infobutton": "Pharm MIBI for patients who can NOT ambulate WITH ekg changes (LBBB, LVH, paced rhythms, digoxin therapy, >1mm of ST depression, and pre-excitation syndromes)",
+    "mod": "NM",
+    "nx": "C",
+    "radex": "NUC MYOCARDIAL PERFUSION WITH PHARMACOLOGICAL STRESS",
+    "seq": "2",
+    "site": {
+      "1": "EW"
+    },
+    "text": "Myocardial Perf with Pharm Stress"
+  },
+  "68": {
+    "0": "1",
+    "1": {
+      "0": "18749801",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "J",
+    "mod": "NM",
+    "nx": "L",
+    "radex": "NUC LUNG SCAN",
+    "seq": "3",
+    "text": "V\/Q Lung Scan"
+  },
+  "69": {
+    "0": "1",
+    "1": {
+      "0": "18900691",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q431 CT PELVIS W\/O CONTRAST",
+    "radex": "CT PELVIS W\/O CONTRAST",
+    "radexid": "Q431",
+    "seq": "35",
+    "text": "CT Pelvis"
+  },
+  "70": {
+    "0": "1",
+    "1": {
+      "0": "18900692",
+      "1": "ewpoed",
+      "2": "4717 DR "
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q432 CT PELVIS W\/CONTRAST",
+    "radex": "CT PELVIS W\/CONTRAST",
+    "radexid": "Q432",
+    "seq": "45",
+    "text": "CT Pelvis"
+  },
+  "71": {
+    "0": "2",
+    "1": {
+      "0": "19548810",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "19927679",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "grprad": "H",
+      "mod": "C",
+      "oex": "U315 US APPENDIX",
+      "radex": "US APPENDIX",
+      "radexid": "U315",
+      "seq": "15",
+      "text": "US Appendix"
+    },
+    "grprad": "A",
+    "mod": "B",
+    "oex": "W56 ED REQUEST FOR SECOND OPINION READ",
+    "radex": "ED REQUEST FOR SECOND OPINION READ",
+    "radexid": "W56",
+    "seq": "10",
+    "text": "ED Request for 2nd Read"
+  },
+  "72": {
+    "0": "4",
+    "1": {
+      "0": "19548812",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "19548812",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "text": "US Bilateral Lower Extremity Vein"
+    },
+    "3": {
+      "0": "19959182",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "nx": "",
+      "oex": "U614 BILAT LOWER EXT VEINS",
+      "radex": "BILAT LOWER EXT VEINS",
+      "radexid": "U614",
+      "seq": "25",
+      "text": "US Bilateral Lower Ext Veins"
+    },
+    "4": {
+      "0": "19959183",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "seq": "50"
+    },
+    "grprad": "H",
+    "mod": "C",
+    "nx": "G",
+    "oex": "U315 US APPENDIX",
+    "radex": "US APPENDIX",
+    "radexid": "U315",
+    "seq": "55",
+    "text": "US Appendix"
+  },
+  "73": {
+    "0": "2",
+    "1": {
+      "0": "19597911",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "19597912",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "seq": "10"
+    },
+    "grprad": "F",
+    "mod": "B",
+    "nx": "GE",
+    "oex": "Q4232 CTU (ABD\/PEL) W\/CONTRAST",
+    "radex": "CTU (ABD\/PEL) W\/CONTRAST",
+    "radexid": "Q4232",
+    "seq": "47",
+    "text": "CTU WITH Contrast"
+  },
+  "74": {
+    "0": "1",
+    "1": {
+      "0": "19649334",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "grprad": "E",
+    "mod": "B",
+    "nx": "BR",
+    "oex": "Q13 ED CODE STROKE ONLY CT",
+    "radex": "ED CODE STROKE ONLY CT",
+    "radexid": "Q13",
+    "seq": "5",
+    "text": "CT Head (CODE STROKE)"
+  },
+  "75": {
+    "0": "6",
+    "1": {
+      "0": "19701536",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "19701537",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "seq": "10"
+    },
+    "3": {
+      "0": "20406232",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+      "radex": "CT ABD & PELVIS W\/O CONTRAST",
+      "radexid": "Q4431",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "CT Abd\/Pelvis +PO Contrast"
+    },
+    "4": {
+      "0": "20436504",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4832 CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radex": "CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radexid": "Q4832"
+    },
+    "5": {
+      "0": "21795321",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+      "radex": "CT ABD & PELVIS W\/O CONTRAST",
+      "radexid": "Q4431",
+      "site": {
+        "2": "CQ",
+        "3": ""
+      }
+    },
+    "6": {
+      "0": "21838271",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "oex": "Q4832 CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radex": "CT ABDOMEN AND PELVIS W\/O CONTRAST W\/ONC TABLES",
+      "radexid": "Q4832"
+    },
+    "grprad": "E",
+    "mod": "B",
+    "oex": "Q4431 CT ABD & PELVIS W\/O CONTRAST",
+    "radex": "CT ABD & PELVIS W\/O CONTRAST",
+    "radexid": "Q4431",
+    "seq": "32",
+    "site": {
+      "1": "EW",
+      "2": "CA",
+      "3": "CQ"
+    },
+    "text": "CT Abd\/Pelvis NO_IV +PO Contrast"
+  },
+  "76": {
+    "0": "4",
+    "1": {
+      "0": "19701536",
+      "1": "ewpoed",
+      "2": "63088 DR "
+    },
+    "2": {
+      "0": "19701537",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "seq": "10"
+    },
+    "3": {
+      "0": "20406229",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "site": {
+        "1": "",
+        "2": ""
+      },
+      "text": "CT Abd\/Pelvis +PO Contrast"
+    },
+    "4": {
+      "0": "21795320",
+      "1": "ewpoed",
+      "2": "63088 DR ",
+      "site": {
+        "2": "CQ",
+        "3": ""
+      }
+    },
+    "grprad": "F",
+    "mod": "B",
+    "oex": "Q4432 CT ABD & PELVIS WITH CONTRAST",
+    "radex": "CT ABD & PELVIS WITH CONTRAST",
+    "radexid": "Q4432",
+    "seq": "42",
+    "site": {
+      "1": "EW",
+      "2": "CA",
+      "3": "CQ"
+    },
+    "text": "CT Abd\/Pelvis w\/ IV +PO Contrast"
+  },
+  "c": "72",
+  "i": {
+    "grprad.seq": {
+      "A": {
+        "1": {
+          "1": "1"
+        },
+        "2": {
+          "2": "1"
+        },
+        "3": {
+          "3": "1"
+        },
+        "4": {
+          "4": "1"
+        },
+        "5": {
+          "5": "1"
+        },
+        "6": {
+          "6": "1"
+        },
+        "7": {
+          "7": "1"
+        },
+        "10": {
+          "71": "1"
+        }
+      },
+      "B": {
+        "1": {
+          "8": "1"
+        },
+        "2": {
+          "9": "1"
+        },
+        "30": {
+          "10": "1"
+        },
+        "40": {
+          "11": "1"
+        },
+        "50": {
+          "12": "1"
+        },
+        "60": {
+          "13": "1"
+        },
+        "70": {
+          "14": "1"
+        },
+        "80": {
+          "15": "1"
+        }
+      },
+      "C": {
+        "10": {
+          "16": "1"
+        },
+        "20": {
+          "17": "1"
+        },
+        "30": {
+          "18": "1"
+        },
+        "40": {
+          "19": "1"
+        },
+        "50": {
+          "20": "1"
+        },
+        "60": {
+          "21": "1"
+        },
+        "70": {
+          "22": "1"
+        },
+        "80": {
+          "23": "1"
+        },
+        "90": {
+          "24": "1"
+        }
+      },
+      "D": {
+        "10": {
+          "25": "1"
+        },
+        "20": {
+          "26": "1"
+        },
+        "30": {
+          "27": "1"
+        },
+        "40": {
+          "28": "1"
+        },
+        "50": {
+          "29": "1"
+        },
+        "60": {
+          "30": "1"
+        },
+        "70": {
+          "31": "1"
+        },
+        "80": {
+          "32": "1"
+        }
+      },
+      "E": {
+        "5": {
+          "74": "1"
+        },
+        "10": {
+          "33": "1"
+        },
+        "20": {
+          "34": "1"
+        },
+        "30": {
+          "35": "1"
+        },
+        "32": {
+          "75": "1"
+        },
+        "35": {
+          "69": "1"
+        },
+        "40": {
+          "36": "1"
+        },
+        "50": {
+          "37": "1"
+        },
+        "60": {
+          "38": "1"
+        },
+        "70": {
+          "39": "1"
+        },
+        "80": {
+          "40": "1"
+        }
+      },
+      "F": {
+        "10": {
+          "41": "1"
+        },
+        "20": {
+          "42": "1"
+        },
+        "30": {
+          "43": "1"
+        },
+        "40": {
+          "44": "1"
+        },
+        "42": {
+          "76": "1"
+        },
+        "45": {
+          "70": "1"
+        },
+        "47": {
+          "73": "1"
+        },
+        "50": {
+          "45": "1"
+        },
+        "60": {
+          "46": "1"
+        }
+      },
+      "G": {
+        "10": {
+          "47": "1"
+        },
+        "20": {
+          "48": "1"
+        },
+        "30": {
+          "49": "1"
+        },
+        "40": {
+          "50": "1"
+        },
+        "50": {
+          "51": "1"
+        }
+      },
+      "H": {
+        "10": {
+          "52": "1"
+        },
+        "20": {
+          "53": "1"
+        },
+        "30": {
+          "54": "1"
+        },
+        "40": {
+          "55": "1"
+        },
+        "50": {
+          "56": "1"
+        },
+        "55": {
+          "72": "1"
+        },
+        "60": {
+          "57": "1"
+        },
+        "70": {
+          "58": "1"
+        }
+      },
+      "I": {
+        "10": {
+          "59": "1"
+        },
+        "20": {
+          "60": "1"
+        },
+        "30": {
+          "61": "1"
+        },
+        "40": {
+          "62": "1"
+        },
+        "50": {
+          "63": "1"
+        },
+        "60": {
+          "64": "1"
+        },
+        "70": {
+          "65": "1"
+        }
+      },
+      "J": {
+        "1": {
+          "66": "1"
+        },
+        "2": {
+          "67": "1"
+        },
+        "3": {
+          "68": "1"
+        }
+      }
+    }
+  }
+}
