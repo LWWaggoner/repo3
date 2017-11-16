@@ -42,7 +42,7 @@ testy.labs=[BMPg,testingg]
 testy.meds=[MEDg]
 
 //simulate duplicate orders
-var dupOrders = [Labs[1]]
+var dupOrders = [Labs[1],Labs[2]]
 
 //simulate warnings for allergies or severe med interactions
 var warnOrders=[Labs[29]]
@@ -107,16 +107,16 @@ checkDuplicate(details, classType) {
             console.log(bad)
             return (bad)
             }) 
-        
+            console.log(bad)
         
          //all the items in a group are affected
         if(bad.length == details.value.length) {
-                    affectedOrders = 1
+                    duplicateStyle='duplicateCSS'
         // some of the items in a group are affected
         } else if(bad.length != 0) {
-            affectedOrders = bad
+            duplicateStyle='notDuplicate'
         // the group is not affected
-        } else {affectedOrders=0}
+        } else {duplicateStyle='notDuplicate'}
     }
     return(duplicateStyle)
 }
@@ -125,8 +125,6 @@ checkWarning(details, classType) {
     //do stuff
     var warning = 0
     var index=[]
-    console.log("warningDetails")
-    console.log(details)
     
     index= this.state.orderWarnings.findIndex((x => x.id == details.id))
     if(index!=-1){warning=1}

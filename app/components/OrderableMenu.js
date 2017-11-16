@@ -24,7 +24,6 @@ checkIfGroupAffected (orderGroup, list) {
         orderGroup.value.map((orderable,index) => {
             ind = list.findIndex((x => x.id == orderable.id))
             if (ind !=-1) {bad[index] = orderable}
-            console.log(bad)
             return (bad)
             }) 
         

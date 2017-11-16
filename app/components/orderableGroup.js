@@ -19,12 +19,16 @@ class OrderableGroup extends React.Component {
 
  componentWillMount() {
  // call duplicate checking function
-        let duplicate = this.props.checkDuplicate(this.props.groupDetails, "Group")
+     let duplicate
+     duplicate = this.props.checkDuplicate(this.props.groupDetails, "group")
 // let warning = this.props.checkWarning(this.props.orderableDetails, "orderable")
     console.log('group_duplicate')
     console.log(duplicate)
-//    this.setState( { duplicateStyle: duplicate, 
-//                     warning: warning } )
+    console.log(this.props.groupDetails)
+    
+    this.setState( { duplicateStyle: duplicate, 
+//                     warning: warning 
+                   } )
 }
 
 handleLabelClick(details, event) {
@@ -90,7 +94,6 @@ handleInputChange(details, event) {
     var checked = event.target.checked;
         
     // says which orderable are selected
-    console.log(this.state.cartGroup)
     if(this.state.cartGroup.length !=0) {this.props.removeGroupFromCart(this.state.cartGroup,0)}
 
     let groupCartList=[]   
@@ -129,13 +132,9 @@ let toggleText
 
 
 //styling for duplicate errors
-let duplicateStyle = 'notDuplicate'
-if (this.props.duplicateError==1) {duplicateStyle='duplicateCSS'}
-    else if (this.props.duplicateError==0) {duplicateStyle='notDuplicate'}
-    else {
-        duplicateStyle=this.props.duplicateError
-        //this will be handled below
-    }
+let duplicateStyle = this.state.duplicateStyle
+console.log(duplicateStyle)
+
 
 //styling for warnings (like allergry)
 // in the future this could recieve a list of the affected orderables as well as the type of warning
@@ -182,15 +181,7 @@ else if( orderGroup.value.length>1) {
                 let ind= mem.findIndex((x => x.id == orderable.id))
                 if (mem[0]==[]){orderableChecked=false }
                 else  if(ind==-1) {orderableChecked=false}
-                else {orderableChecked=true}
-                // duplicatechecking
-                duplicateStyle='notDuplicate'
-                if (this.props.duplicateError != 0) {
-                    var index=[]
-                    index= this.props.duplicateError.findIndex((x => x.id == orderable.id))
-                    if(index!=-1){duplicateStyle='duplicateCSS'}
-                }
-
+                else {orderableChecked=true}        
    
             return(
                 <Orderable 

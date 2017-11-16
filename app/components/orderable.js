@@ -22,8 +22,7 @@ componentWillMount() {
     // call duplicate checking function
     let duplicate = this.props.checkDuplicate(this.props.orderableDetails, "orderable")
     let warning = this.props.checkWarning(this.props.orderableDetails, "orderable")
-    console.log('orderable_duplicate')
-    console.log(duplicate)
+  
     this.setState( { duplicateStyle: duplicate, 
                      warning: warning } )
 }
