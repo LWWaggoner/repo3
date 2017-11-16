@@ -90,12 +90,34 @@ getInventory() {
 checkDuplicate(details, classType) {
     //do stuff
     var duplicateStyle='notDuplicate'
-    var index=[]
-    console.log("details")
-    console.log(details)
+    var ind=[]
     
-    index= this.state.duplicateOrders.findIndex((x => x.id == details.id))
-    if(index!=-1){duplicateStyle='duplicateCSS'}
+    if (classType =='orderable') {
+        ind= this.state.duplicateOrders.findIndex((x => x.id == details.id))
+        if(ind!=-1){duplicateStyle='duplicateCSS'} 
+    }
+    
+    if (classType =='group') {
+      let ind
+      let bad = []
+      let affectedOrders=[]
+        details.value.map((orderable,index) => {
+            ind = this.state.duplicateOrders.findIndex((x => x.id == orderable.id))
+            if (ind !=-1) {bad[index] = orderable}
+            console.log(bad)
+            return (bad)
+            }) 
+        
+        
+         //all the items in a group are affected
+        if(bad.length == details.value.length) {
+                    affectedOrders = 1
+        // some of the items in a group are affected
+        } else if(bad.length != 0) {
+            affectedOrders = bad
+        // the group is not affected
+        } else {affectedOrders=0}
+    }
     return(duplicateStyle)
 }
     
