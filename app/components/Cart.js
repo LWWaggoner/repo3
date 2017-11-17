@@ -14,13 +14,11 @@ componentWillReceiveProps(nextProps) {
     this.setState({ cartList: nextProps.cartList });  
 };
 
+    
   render() {
 let cartList=this.state.cartList.concat([])
 let displayList
-console.log("cartList")
-console.log(cartList)
-console.log("cartList length")
-console.log(cartList.length)
+
 let duplicateError=0
 
 
@@ -38,12 +36,12 @@ if(cartList.length === 0){displayList="No orders selected"
                 cartView={true}
                 checkDuplicate = {this.props.checkDuplicate}
                 checkWarning = {this.props.checkWarning}
+                checkListOrderable = {this.props.checkListOrderable}
+                checkListSame = {this.props.checkListSame}
             />
         )
         }else {
             var orderGroup = orderable
-            console.log('cartGroup')
-            console.log(orderGroup)
             return(
             <OrderableGroup 
                 groupDetails={orderGroup} 
@@ -54,20 +52,23 @@ if(cartList.length === 0){displayList="No orders selected"
                 cartView={true}
                 checkDuplicate = {this.props.checkDuplicate}
                 checkWarning = {this.props.checkWarning}
+                checkListOrderable = {this.props.checkListOrderable}
+                checkListSame = {this.props.checkListSame}
+                removeGroupFromCart={this.props.removeGroupFromCart}
             />
             )
         }
     })
 }
       
-//Determine Ordertype and how to display
+//might be nice to arrange the cartList by Ordertype?
     return (
       <div className='cartWrapper'>
         <h4>New Orders</h4>
         <div className='cartItems'> {displayList} </div>
         <p> </p>
-        <form>
-            <input type="submit" label="sign"/>
+        <form >
+            <input type="submit" value='sign' />
         </form>
       </div>
     )

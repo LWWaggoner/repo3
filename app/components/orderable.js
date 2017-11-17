@@ -5,9 +5,6 @@ class Orderable extends React.Component {
 constructor(props){
 		super(props);
         this.state = {
-            select: this.props.stateOfCheck,
-            changedOrderable: {},
-            lastProps: this.props.changeBox, 
             duplicateStyle: 'notDuplicate',
             warning: 0
             //
@@ -16,27 +13,34 @@ constructor(props){
         this.handleCheckboxChange = this.handleCheckboxChange.bind(this);
         this.handleLabelClick = this.handleLabelClick.bind(this);
         this.updateGroup = this.updateGroup.bind(this);
+        this.handleCartRemove = this.handleCartRemove.bind(this);
     }
     
 componentWillMount() {
-    // call duplicate checking function
+    // call duplicate checking function ... This might belong somewhere else depending on if we do want to be constantly checking.
+    
     let duplicate = this.props.checkDuplicate(this.props.orderableDetails, "orderable")
     let warning = this.props.checkWarning(this.props.orderableDetails, "orderable")
-  
+
+    // See if the order is in the cart and change the state accordingly
     this.setState( { duplicateStyle: duplicate, 
                      warning: warning } )
-}
-    
+
+}    
+
 handleLabelClick(details, event) {
-    var newState = !this.state.select
+    var newState = !this.props.checkListOrderable(details,1)
     this.updateGroup(details,newState)
-}
     
+ }
+
+handleCartRemove (details,e) {
+// Group Handling needs to be better controlled first
+    var f = false
+    this.updateGroup(details,f)
+
+}
 updateGroup (details,check) {
-    this.setState( {
-                select: check,
-                changedOrderable: details
-    } )
     this.props.updateGroup(details, check)
 }
     
@@ -46,26 +50,28 @@ handleCheckboxChange(details, event) {
     }
     
 componentWillReceiveProps(nextProps) {
-    var lastProps = this.select
-    var newProps = nextProps.stateOfCheck
     
-    if (lastProps !=newProps) {
-        this.setState({ select: newProps })}
-
-   this.setState({ lastProps: newProps });
 }
 
 
+
 render() {
-       
+
+
 let view
-let viewWarning
 var details=this.props.orderableDetails
 var groupSelect=this.props.changeBox
+
+// check to see if the orderable is currenlty in the cart
+let currentCheck = this.props.checkListOrderable(details,1)
+
+
+
+/// Warnings should be turned into a component and also just check against the state in the APP component via a function
+let viewWarning
 let warning=this.state.warning;
 let warningtext = "<-- allergy"
-
-if (warning==0) {viewWarning=null}
+if (!warning) {viewWarning=null}
 else if (warning==1) {   
     viewWarning = (
         <div className='warning'>
@@ -73,24 +79,38 @@ else if (warning==1) {
         </div>
     )}
 else {viewWarning=null}
-
+//a
+    
+// set up the view for the orderable based on whether it is on the menu or in the cart.   
+let viewCart
+viewCart = (
+            <div className='cartRemove' onClick={(e)=> this.handleCartRemove(details,e)}>
+                        <a className='itemRemove' 
+                            href='#'
+                            >
+                                x
+                        </a>
+                    </div>
+            )
 if(this.props.cartView) {
     
         view = ( <div className='orderable'>
                     <label>{details.text}</label>
-                    <a className='itemRemove' href='#'>x</a>
+                    {viewCart}
                     {viewWarning}
                 </div>)
 } else {
+        // the multiple divs are for the styling of the Checkbox for duplicate orders
         view = <div className='orderable'>
                     <div>
                         <div className={this.state.duplicateStyle}>
-                        <input 
-                            type='checkbox'
-                            id='cssId'
-                            checked={this.state.select}
-                            name={details.text}
-                            onChange={(e)=> this.handleCheckboxChange(details, e)} />
+                            <input 
+                                type='checkbox'
+                                id='cssId'
+                                checked={currentCheck}
+                                name={details.text}
+                                onChange={(e)=> this.handleCheckboxChange(details, e)} 
+                            />
                         </div>
                     </div>
                     <div
