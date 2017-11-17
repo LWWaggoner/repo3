@@ -57,8 +57,7 @@ let view;
 displayList = this.props.typeInventory.map(orderGroup => {
 
             
-    if(1){
-            return(    
+              return(    
                 <OrderableGroup 
                     groupDetails={orderGroup} 
                     key={orderGroup.id}
@@ -75,28 +74,11 @@ displayList = this.props.typeInventory.map(orderGroup => {
                     checkListSame = {this.props.checkListSame}
                         />
                     )
-                }
             })
     
 
-
-// Loop through the different Display Types in the object. Currently each JSON file is considered it's own Display Type. 
-
-    
-if (0) {
-
-}
-
-
-//console.log('help')
-//console.log(displayList)
-// link to orderable and create var that maps the inventory here
-// {inventory.map(function (lab) { 
-// <Orderable orderableAttributes={}>
-       
 return (
-        // this should return ONE div with product-wrapper and the products
-      <div className='ordmenu2' >
+      <div className='groups' >
         {displayList}
      </div>
     );

@@ -38,8 +38,7 @@ handleClick(details,event){
 }
 
     
-//Constructor for a group to go the cart into component 
-// I think this may significantly interfere with my ability to  use state correctly. It seems likely that creating the new order group should be done at the APP level.
+//create a new instance of the group to go the cart into component 
 PatientGroup(id,text,value){
     this.id = id;
     this.text = text;
@@ -113,7 +112,7 @@ handleGroupItemUpdate(id,orderableChecked) {
 handleInputChange(details, event) {
     var checked = event.target.checked;
         
-    // says which orderable are selected this maight need to be cleaned up
+    // says which orderable are selected this might need to be cleaned up
     if(this.state.cartGroup.length !=0) {this.props.removeGroupFromCart(this.state.cartGroup,0)}
 
     console.log('First Block')
@@ -267,7 +266,7 @@ else if( orderGroup.value.length>1) {
                 )
         }
     if(this.props.cartView) {
-        // this function has not been built out yet 
+        // this JSX works but the function has not been built out yet 
             //  let viewCart
             //viewCart = (
             //<div className='cartRemove' onClick={(e)=> this.handleCartRemove(details,e)}>
